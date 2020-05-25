@@ -1,1 +1,6 @@
 # Zimnat_Challenge
+During a crisis like COVID-19, we recognize the crucial role that insurance can play in our ability to weather an unexpected storm. Insurance products help people and their families access the financial and medical support they need when they need the help the most.
+
+Insurance companies rely on monthly premiums from their clients as their principal source of income; these premiums buy the client insurance against accidents, fires, injury or theft. However, insurance is a competitive market, and there are many factors that can cause a customer to leave an insurance provider, be it poor service delivery, competitive pricing, personal financial stress such, or other environmental factors. This customer loss is known in the business as ‘churn’.
+
+In this hackathon your objective is to develop a predictive model that determines the likelihood for an insurance customer to churn - to seek an alternative insurer or simply drop out of the insurance market altogether. In light of the current pandemic, churn prediction can be used to offer targeted support and tailored services to certain customers vulnerable to churning. This means more people can continue to be covered when they most need it most and insurance companies can be more efficient at serving and retaining their customers.
